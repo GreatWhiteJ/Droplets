@@ -3,14 +3,14 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const config = {
-  apiKey: "AIzaSyACmfL7Qdpfy1thpQw5JBcMOXWOkHokAmA",
-  authDomain: "droplets-4dfb3.firebaseapp.com",
-  databaseURL: "https://droplets-4dfb3.firebaseio.com",
-  projectId: "droplets-4dfb3",
-  storageBucket: "droplets-4dfb3.appspot.com",
-  messagingSenderId: "320999062142",
-  appId: "1:320999062142:web:ce5dbaed0e41d76145f62f",
-  measurementId: "G-HD9KRJMVRT"
+  apiKey: "AIzaSyBX4_h2ZP-4pupDHXks9l5YL-92xSoFmmM",
+  authDomain: "samebase-d2e15.firebaseapp.com",
+  databaseURL: "https://samebase-d2e15.firebaseio.com",
+  projectId: "samebase-d2e15",
+  storageBucket: "samebase-d2e15.appspot.com",
+  messagingSenderId: "504717594119",
+  appId: "1:504717594119:web:5534754aacb79e3f6724a2",
+  measurementId: "G-XV5M718D6J"
 };
 
 firebase.initializeApp(config);

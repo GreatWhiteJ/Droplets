@@ -10,4 +10,4 @@ deploy:
   skip_cleanup: true
   provider: firebase
   token: $FIREBASE_TOKEN
-  project: droplets-4dfb3
+  project: 1:504717594119:web:5534754aacb79e3f6724a2
